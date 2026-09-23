@@ -1,2 +1,0 @@
-# CODEWARS-KATA
-begginer katas
